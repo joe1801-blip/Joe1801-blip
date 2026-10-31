@@ -1,8 +1,8 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:1e3a8a,100:3b82f6&height=200&section=header&text=Jonathan%20Tiburcio&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Ciberseguran%C3%A7a&descAlignY=58&descSize=18)
+![Minigame animado](banner.svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Jonathan+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Rumo+%C3%A0+ciberseguran%C3%A7a+%F0%9F%94%90;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Aprendendo+algo+novo+todos+os+dias+%F0%9F%92%A1)](https://github.com/joe1801-blip)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Ol%C3%A1%2C+eu+sou+o+Jonathan+%F0%9F%91%8B;Estudante+de+Engenharia+de+Software+%F0%9F%8E%93;Rumo+%C3%A0+ciberseguran%C3%A7a+%F0%9F%94%90;Transformando+ideias+em+c%C3%B3digo+%F0%9F%9A%80;Aprendendo+algo+novo+todos+os+dias+%F0%9F%92%A1)
 
 </div>
 
@@ -18,12 +18,16 @@ Aprendo na prática, criando projetos, estudando constantemente e buscando evolu
 
 ## 🛠️ Tecnologias e conhecimentos
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+- 🌐 Desenvolvimento web com **HTML, CSS e JavaScript**
 - 🐍 Programação em **Python**
 - ⚙️ Programação em **C**
 - 📊 Análise de dados com **Power BI**
@@ -81,15 +85,8 @@ Projeto de ERP para o clube, com as evidências do desenvolvimento reunidas no r
 
 ---
 
-## 📊 Estatísticas
-
 <div align="center">
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=joe1801-blip&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joe1801-blip&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
-
 ⭐ *Sempre aprendendo, sempre evoluindo.*
-
-![Rodapé](https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1e3a8a&height=120&section=footer)
 
 </div>
